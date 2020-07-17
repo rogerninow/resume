@@ -10,13 +10,16 @@ Caso queira inspiração para layouts: [FREESUMES](https://www.freesumes.com/).
 
 ## Histórico de alterações
 
+* 0.3.0
+    * Alteração de icones das tecnologias;
+    * Atualização de informações.
 * 0.2.0
     * Alterado formato de exibição das habilidades;
     * Alterado as experiências e formações.
 * 0.1.0
     * Primeira versão.
 
-## Info
+## Informações
 
 [Róger Ninow ](https://rogerninow.com) – rogerninow@hotmail.com
 
