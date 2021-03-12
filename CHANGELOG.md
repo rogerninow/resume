@@ -1,6 +1,9 @@
 Changelog:
 ===========
 
+### 0.4.1
+* Atualização no arquivo README.md;
+
 ### 0.4.0
 * Atualização de informações;
 * Alteração na exibição do período de experiência;
