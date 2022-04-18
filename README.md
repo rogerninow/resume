@@ -1,15 +1,15 @@
 # Currículo DOCX
-> Meu currículo em formato DOCX e PDF
+> Currículo pessoal em formato DOCX e PDF
 
-Muitas empresas ainda pedem currículos no formato DOCX e/ou PDF. 
-Este repositório utilizo para manter as versões destes arquivos e enviar quando requisitado.
+Por mais que as tecnologias tenham evoluído, os currículos em formato DOCX e PDF ainda são solicitados.  
+Este repositório utilizo para manter as versões destes arquivos para quem tenha interesse.
 
 Fique a vontade para utilizar esse currículo como layout para o seu!
 
-Caso queira inspiração para layouts: [FREESUMES](https://www.freesumes.com/).
+Caso queira, pode buscar inspiração de layouts em: [FREESUMES](https://www.freesumes.com).
 
 ## Informações
 
 [Róger Ninow ](https://rogerninow.com) – rogerninow@hotmail.com
 
-Layout do currrículo foi criado com inspiração nos layouts da [FREESUMES](https://www.freesumes.com/).
+Layout do currrículo foi criado com inspiração nos layouts da [FREESUMES](https://www.freesumes.com).

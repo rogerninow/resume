@@ -1,6 +1,10 @@
 Changelog:
 ===========
 
+### 0.5.0
+* Atualização de informações;
+* Alterações de layout.
+
 ### 0.4.1
 * Atualização no arquivo README.md;
 
