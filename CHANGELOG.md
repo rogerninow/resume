@@ -1,6 +1,11 @@
 Changelog:
 ===========
 
+### 0.6.0
+* Atualização de informações;
+* Adição de currículo em inglês;
+* Alteração de nomes dos arquivos.
+
 ### 0.5.0
 * Atualização de informações;
 * Alterações de layout.
