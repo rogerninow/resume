@@ -1,30 +1,36 @@
 Changelog:
 ===========
 
+### 0.7.1
+* Added english CHANGELOG.md.
+
+### 0.7.0
+* Update information.
+
 ### 0.6.0
-* Atualização de informações;
-* Adição de currículo em inglês;
-* Alteração de nomes dos arquivos.
+* Update information.
+* Added english resume.
+* Changed file names.
 
 ### 0.5.0
-* Atualização de informações;
-* Alterações de layout.
+* Update information.
+* Layout changes.
 
 ### 0.4.1
-* Atualização no arquivo README.md;
+* Updates on README.md file.
 
 ### 0.4.0
-* Atualização de informações;
-* Alteração na exibição do período de experiência;
-* Adicionado CHANGELOG.md.
+* Update information.
+* Changes on experience date section.
+* Added CHANGELOG.md.
 
 ### 0.3.0
-* Alteração de icones das tecnologias;
-* Atualização de informações.
+* Added tech icons.
+* Update information.
 
 ### 0.2.0
-* Alterado formato de exibição das habilidades;
-* Alterado as experiências e formações.
+* Changed ability section display.
+* Changed experience section layout.
 
 ### 0.1.0
-* Primeira versão.
+* First version.

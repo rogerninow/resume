@@ -14,8 +14,10 @@ If you want, you can look for inspirations in: [FREESUMES](https://www.freesumes
 
 The resume layout was created with inspiration from the layouts of [FREESUMES](https://www.freesumes.com).
 
----------------------------------------------------------------------------------
+## Version
+#### v0.7.1
 
+---------------------------------------------------------------------------------
 # Currículo DOCX/PDF
 > Currículo pessoal em formato DOCX e PDF.
 
@@ -31,3 +33,6 @@ Caso queira, pode buscar inspiração de layouts em: [FREESUMES](https://www.fre
 [Róger Ninow ](https://rogerninow.com) – rogerninow@hotmail.com
 
 Layout do currrículo foi criado com inspiração nos layouts da [FREESUMES](https://www.freesumes.com).
+
+## Versão
+#### v0.7.1
